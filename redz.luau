@@ -3676,7 +3676,7 @@ l_ScreenGui_0.Parent = game.CoreGui
 local l_ImageButton_0 = Instance.new("ImageButton")
 l_ImageButton_0.Size = UDim2.new(0, 50, 0, 50)
 l_ImageButton_0.Position = UDim2.new(0.15, 0, 0.15, 0)
-l_ImageButton_0.Image = ":// 70439642141237"
+l_ImageButton_0.Image = "rbxassetid:// 70439642141237"
 l_ImageButton_0.BackgroundTransparency = 1
 l_ImageButton_0.Parent = l_ScreenGui_0
 local l_UICorner_0 = Instance.new("UICorner")
@@ -3742,35 +3742,35 @@ l_ImageButton_0.MouseButton1Click:Connect(function()
         v466:Minimize(true)
     end
 end)
-local v484 = v466:MakeTab({"Th\195\180ng Tin | Info","://70439642141237"})
-local v485 = v466:MakeTab({"Farming","://70439642141237"})
-local v486 = v466:MakeTab({"Auto Fishing","://70439642141237"})
-local v487 = v466:MakeTab({"Quest | Items","://70439642141237"})
-local v488 = v466:MakeTab({"Volcano Dojo","://70439642141237"})
-local v489 = v466:MakeTab({"Sea Event","://70439642141237"})
-local v490 = v466:MakeTab({"Race V4","://70439642141237"})
-local v491 = v466:MakeTab({"Raid Fruits","://70439642141237"})
-local v492 = v466:MakeTab({"Fruits | Check Stock","://70439642141237"})
-local v493 = v466:MakeTab({"Teleport","://70439642141237"})
-local v494 = v466:MakeTab({"PvP,Player","://70439642141237"})
-local v495 = v466:MakeTab({"Shop","://70439642141237"})
-local v496 = v466:MakeTab({"Settings","://70439642141237"})
+local v484 = v466:MakeTab({"Th\195\180ng Tin | Info","rbxassetid://70439642141237"})
+local v485 = v466:MakeTab({"Farming","rbxassetid://70439642141237"})
+local v486 = v466:MakeTab({"Auto Fishing","rbxassetid://70439642141237"})
+local v487 = v466:MakeTab({"Quest | Items","rbxassetid://70439642141237"})
+local v488 = v466:MakeTab({"Volcano Dojo","rbxassetid://70439642141237"})
+local v489 = v466:MakeTab({"Sea Event","rbxassetid://70439642141237"})
+local v490 = v466:MakeTab({"Race V4","rbxassetid://70439642141237"})
+local v491 = v466:MakeTab({"Raid Fruits","rbxassetid://70439642141237"})
+local v492 = v466:MakeTab({"Fruits | Check Stock","rbxassetid://70439642141237"})
+local v493 = v466:MakeTab({"Teleport","rbxassetid://70439642141237"})
+local v494 = v466:MakeTab({"PvP,Player","rbxassetid://70439642141237"})
+local v495 = v466:MakeTab({"Shop","rbxassetid://70439642141237"})
+local v496 = v466:MakeTab({"Settings","rbxassetid://70439642141237"})
 v484:AddDiscordInvite({
     Name = "Youtube:LONGCUTOVL",
     Description = "@EMGAIVUTOSUNGBO",
-    Logo = "://104244131257140",
+    Logo = "rbxassetid://70439642141237",
     Invite = ""
 })
 v484:AddDiscordInvite({
     Name = "EMGAIVTLM",
     Description = "",
-    Logo = "://70439642141237",
+    Logo = "rbxassetid://70439642141237",
     Invite = "https://www.youtube.com/@yua_mikami816"
 })
 v484:AddDiscordInvite({
     Name = "EMGAILTL",
     Description = "",
-    Logo = "://70439642141237",
+    Logo = "rbxassetid://70439642141237",
     Invite = ""
 })
 local _ = v485:AddSection({"Select Melee,Sword,Gun,Fruit"})
@@ -6346,7 +6346,7 @@ if World3 then
                                             game.StarterGui:SetCore("SendNotification", {
                                                 Title = "Tu\225\186\165n Anh IOS",
                                                 Text = "Use! - Yama or Tushita",
-                                                con = "://70439642141237",
+                                                con = "rbxassetid://70439642141237",
                                                 Duration = 10
                                             })
                                             v798 = true
