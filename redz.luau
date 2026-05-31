@@ -3665,7 +3665,7 @@ function CheckItemBPCRBPCR(v463)
         end
     end
 end
-local v466 = loadstring(game:https://raw.githubusercontent.com/nvb201112/ui/refs/heads/main/ui%20redz.lua.txt"))():MakeWindow({
+local v466 = loadstring(game:https://raw.githubusercontent.com/DeuresOffical/MY-SCRIPT-ROBLOX/refs/heads/main/ui%20redz.lua.txt"))():MakeWindow({
     Title = "HUPHAUEMGAI",
     SubTitle = "by_emdatemdanghuphau",
     SaveFolder = "the_real_SEX| redz lib v5.lua"
