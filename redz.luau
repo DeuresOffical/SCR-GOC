@@ -3665,10 +3665,10 @@ function CheckItemBPCRBPCR(v463)
         end
     end
 end
-local v466 = loadstring(game:HttpGet("https://raw.githubusercontent.com/DeuresOffical/MY-SCRIPT-ROBLOX/refs/heads/main/ui%20redz.lua.txt"))():MakeWindow({
-    Title = "HUPHAUEMGAI",
-    SubTitle = "by_emdatemdanghuphau",
-    SaveFolder = "the_real_SEX| redz lib v5.lua"
+local v466 = loadstring(game:HttpGet("https://raw.githubusercontent.com/nvb201112/ui/refs/heads/main/uinew.luau.txt"))():MakeWindow({
+    Title = "the_real_Panda Hub",
+    SubTitle = "by the_real_Panda",
+    SaveFolder = "the_real_Panda| redz lib v5.lua"
 })
 local l_ScreenGui_0 = Instance.new("ScreenGui")
 l_ScreenGui_0.Name = "ControlGUI"
@@ -3676,7 +3676,7 @@ l_ScreenGui_0.Parent = game.CoreGui
 local l_ImageButton_0 = Instance.new("ImageButton")
 l_ImageButton_0.Size = UDim2.new(0, 50, 0, 50)
 l_ImageButton_0.Position = UDim2.new(0.15, 0, 0.15, 0)
-l_ImageButton_0.Image = "rbxassetid:// 70439642141237"
+l_ImageButton_0.Image = "rbxassetid:// 114754909565083"
 l_ImageButton_0.BackgroundTransparency = 1
 l_ImageButton_0.Parent = l_ScreenGui_0
 local l_UICorner_0 = Instance.new("UICorner")
@@ -3756,19 +3756,19 @@ local v494 = v466:MakeTab({"PvP,Player","rbxassetid://70439642141237"})
 local v495 = v466:MakeTab({"Shop","rbxassetid://70439642141237"})
 local v496 = v466:MakeTab({"Settings","rbxassetid://70439642141237"})
 v484:AddDiscordInvite({
-    Name = "Youtube:LONGCUTOVL",
-    Description = "@EMGAIVUTOSUNGBO",
-    Logo = "rbxassetid://70439642141237",
+    Name = "Youtube:theRealPandaSkidder",
+    Description = "@the_real_Panda-Skidder",
+    Logo = "rbxassetid://104244131257140",
     Invite = ""
 })
 v484:AddDiscordInvite({
-    Name = "EMGAIVTLM",
+    Name = "the_real_Panda Hub",
     Description = "",
     Logo = "rbxassetid://70439642141237",
-    Invite = "https://www.youtube.com/@yua_mikami816"
+    Invite = "https://www.youtube.com/channel/UC_QyZH-5347xqohjTB8JSYg"
 })
 v484:AddDiscordInvite({
-    Name = "EMGAILTL",
+    Name = "the_real_Panda Hub",
     Description = "",
     Logo = "rbxassetid://70439642141237",
     Invite = ""
@@ -6346,7 +6346,7 @@ if World3 then
                                             game.StarterGui:SetCore("SendNotification", {
                                                 Title = "Tu\225\186\165n Anh IOS",
                                                 Text = "Use! - Yama or Tushita",
-                                                con = "rbxassetid://70439642141237",
+                                                con = "rbxassetid://110657725541747",
                                                 Duration = 10
                                             })
                                             v798 = true
