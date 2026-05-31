@@ -3742,19 +3742,19 @@ l_ImageButton_0.MouseButton1Click:Connect(function()
         v466:Minimize(true)
     end
 end)
-local v484 = v466:MakeTab({"Th\195\180ng Tin | Info","rbxassetid://70439642141237"})
-local v485 = v466:MakeTab({"Farming","rbxassetid://70439642141237"})
-local v486 = v466:MakeTab({"Auto Fishing","rbxassetid://70439642141237"})
-local v487 = v466:MakeTab({"Quest | Items","rbxassetid://70439642141237"})
-local v488 = v466:MakeTab({"Volcano Dojo","rbxassetid://70439642141237"})
-local v489 = v466:MakeTab({"Sea Event","rbxassetid://70439642141237"})
-local v490 = v466:MakeTab({"Race V4","rbxassetid://70439642141237"})
-local v491 = v466:MakeTab({"Raid Fruits","rbxassetid://70439642141237"})
-local v492 = v466:MakeTab({"Fruits | Check Stock","rbxassetid://70439642141237"})
-local v493 = v466:MakeTab({"Teleport","rbxassetid://70439642141237"})
-local v494 = v466:MakeTab({"PvP,Player","rbxassetid://70439642141237"})
-local v495 = v466:MakeTab({"Shop","rbxassetid://70439642141237"})
-local v496 = v466:MakeTab({"Settings","rbxassetid://70439642141237"})
+local v484 = v466:MakeTab({"Th\195\180ng Tin | Info","rbxassetid://74732459344895"})
+local v485 = v466:MakeTab({"Farming","rbxassetid://74732459344895"})
+local v486 = v466:MakeTab({"Auto Fishing","rbxassetid://74732459344895"})
+local v487 = v466:MakeTab({"Quest | Items","rbxassetid://74732459344895"})
+local v488 = v466:MakeTab({"Volcano Dojo","rbxassetid://74732459344895"})
+local v489 = v466:MakeTab({"Sea Event","rbxassetid://74732459344895"})
+local v490 = v466:MakeTab({"Race V4","rbxassetid://74732459344895"})
+local v491 = v466:MakeTab({"Raid Fruits","rbxassetid://74732459344895"})
+local v492 = v466:MakeTab({"Fruits | Check Stock","rbxassetid://74732459344895"})
+local v493 = v466:MakeTab({"Teleport","rbxassetid://74732459344895"})
+local v494 = v466:MakeTab({"PvP,Player","rbxassetid://74732459344895"})
+local v495 = v466:MakeTab({"Shop","rbxassetid://74732459344895"})
+local v496 = v466:MakeTab({"Settings","rbxassetid://74732459344895"})
 v484:AddDiscordInvite({
     Name = "Youtube:theRealPandaSkidder",
     Description = "@the_real_Panda-Skidder",
@@ -3764,13 +3764,13 @@ v484:AddDiscordInvite({
 v484:AddDiscordInvite({
     Name = "the_real_Panda Hub",
     Description = "",
-    Logo = "rbxassetid://70439642141237",
+    Logo = "rbxassetid://74732459344895",
     Invite = "https://www.youtube.com/channel/UC_QyZH-5347xqohjTB8JSYg"
 })
 v484:AddDiscordInvite({
     Name = "the_real_Panda Hub",
     Description = "",
-    Logo = "rbxassetid://70439642141237",
+    Logo = "rbxassetid://74732459344895",
     Invite = ""
 })
 local _ = v485:AddSection({"Select Melee,Sword,Gun,Fruit"})
