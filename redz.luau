@@ -3762,7 +3762,7 @@ v484:AddDiscordInvite({
     Invite = ""
 })
 v484:AddDiscordInvite({
-    Name = "EM GAI VU TO L MUO",
+    Name = "EM GAI VU TO L MUp",
     Description = "",
     Logo = "rbxassetid://74732459344895",
     Invite = "https://www.youtube.com/@yua_mikami816"
