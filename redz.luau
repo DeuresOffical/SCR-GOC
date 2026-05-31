@@ -3676,7 +3676,7 @@ l_ScreenGui_0.Parent = game.CoreGui
 local l_ImageButton_0 = Instance.new("ImageButton")
 l_ImageButton_0.Size = UDim2.new(0, 50, 0, 50)
 l_ImageButton_0.Position = UDim2.new(0.15, 0, 0.15, 0)
-l_ImageButton_0.Image = "rbxassetid:// 114754909565083"
+l_ImageButton_0.Image = "rbxassetid:// 74732459344895"
 l_ImageButton_0.BackgroundTransparency = 1
 l_ImageButton_0.Parent = l_ScreenGui_0
 local l_UICorner_0 = Instance.new("UICorner")
@@ -3758,7 +3758,7 @@ local v496 = v466:MakeTab({"Settings","rbxassetid://74732459344895"})
 v484:AddDiscordInvite({
     Name = "Youtube:theRealPandaSkidder",
     Description = "@the_real_Panda-Skidder",
-    Logo = "rbxassetid://104244131257140",
+    Logo = "rbxassetid://74732459344895",
     Invite = ""
 })
 v484:AddDiscordInvite({
@@ -6346,7 +6346,7 @@ if World3 then
                                             game.StarterGui:SetCore("SendNotification", {
                                                 Title = "Tu\225\186\165n Anh IOS",
                                                 Text = "Use! - Yama or Tushita",
-                                                con = "rbxassetid://110657725541747",
+                                                con = "rbxassetid://74732459344895",
                                                 Duration = 10
                                             })
                                             v798 = true
