@@ -3666,9 +3666,9 @@ function CheckItemBPCRBPCR(v463)
     end
 end
 local v466 = loadstring(game:HttpGet("https://raw.githubusercontent.com/nvb201112/ui/refs/heads/main/uinew.luau.txt"))():MakeWindow({
-    Title = "DANG DAT LONG HUP HAU",
-    SubTitle = "by EM GAI VU SUNG BO",
-    SaveFolder = "DIT ME THANG HUNG TUAT| redz lib v5.lua"
+    Title = "EM DANG DAT LONG DIT CON ME THANG HUNG TUAT",
+    SubTitle = "HUP HAU EM GAI VU SUNG TO",
+    SaveFolder = "DANG CAP CRACK DIT CON ME EM HUNG TUAT| redz lib v5.lua"
 })
 local l_ScreenGui_0 = Instance.new("ScreenGui")
 l_ScreenGui_0.Name = "ControlGUI"
@@ -3676,7 +3676,7 @@ l_ScreenGui_0.Parent = game.CoreGui
 local l_ImageButton_0 = Instance.new("ImageButton")
 l_ImageButton_0.Size = UDim2.new(0, 50, 0, 50)
 l_ImageButton_0.Position = UDim2.new(0.15, 0, 0.15, 0)
-l_ImageButton_0.Image = "rbxassetid:// 74732459344895"
+l_ImageButton_0.Image = "rbxassetid:// 114754909565083"
 l_ImageButton_0.BackgroundTransparency = 1
 l_ImageButton_0.Parent = l_ScreenGui_0
 local l_UICorner_0 = Instance.new("UICorner")
@@ -3756,62 +3756,19 @@ local v494 = v466:MakeTab({"PvP,Player","rbxassetid://74732459344895"})
 local v495 = v466:MakeTab({"Shop","rbxassetid://74732459344895"})
 local v496 = v466:MakeTab({"Settings","rbxassetid://74732459344895"})
 v484:AddDiscordInvite({
-    Name = "Youtube:theRealPandaSkidder",
-    Description = "@MIKAMI YUA74 = true
-        v476 = v481.Position
-        v477 = l_ImageButton_0.Position
-        v481.Changed:Connect(function()
-            if v481.UserInputState == Enum.UserInputState.End then
-                v474 = false
-            end
-        end)
-    end
-end)
-l_ImageButton_0.InputChanged:Connect(function(v482)
-    if v482.UserInputType == Enum.UserInputType.Touch or v482.UserInputType == Enum.UserInputType.MouseMovement then
-        v475 = v482
-    end
-end)
-game:GetService("UserInputService").InputChanged:Connect(function(v483)
-    if v474 and v483 == v475 then
-        v480(v483)
-    end
-end)
-l_ImageButton_0.MouseButton1Click:Connect(function()
-    v473 = not v473
-    if v473 then
-        v466:Minimize(false)
-    else
-        v466:Minimize(true)
-    end
-end)
-local v484 = v466:MakeTab({"Thong Tin | Info","rbxassetid://74732459344895"})
-local v485 = v466:MakeTab({"Farming","rbxassetid://74732459344895"})
-local v486 = v466:MakeTab({"Auto Fishing","rbxassetid://74732459344895"})
-local v487 = v466:MakeTab({"Quest | Items","rbxassetid://74732459344895"})
-local v488 = v466:MakeTab({"Volcano Dojo","rbxassetid://74732459344895"})
-local v489 = v466:MakeTab({"Sea Event","rbxassetid://74732459344895"})
-local v490 = v466:MakeTab({"Race V4","rbxassetid://74732459344895"})
-local v491 = v466:MakeTab({"Raid Fruits","rbxassetid://74732459344895"})
-local v492 = v466:MakeTab({"Fruits | Check Stock","rbxassetid://74732459344895"})
-local v493 = v466:MakeTab({"Teleport","rbxassetid://74732459344895"})
-local v494 = v466:MakeTab({"PvP,Player","rbxassetid://74732459344895"})
-local v495 = v466:MakeTab({"Shop","rbxassetid://74732459344895"})
-local v496 = v466:MakeTab({"Settings","rbxassetid://74732459344895"})
-v484:AddDiscordInvite({
-    Name = "Youtube:CHECKER VIET NAM",
-    Description = "@MIKAMI YUA",
+    Name = "Youtube:DANG DAT LONG DKM THANG HUNG TUAT",
+    Description = "@HNHTLONG DIT CON ME THANG HUNG TUAT",
     Logo = "rbxassetid://74732459344895",
     Invite = ""
 })
 v484:AddDiscordInvite({
-    Name = "TOP TEAM VIET NAM BY 3 AE SIEU NHAN",
+    Name = "EM GAI VU TO L MUO",
     Description = "",
     Logo = "rbxassetid://74732459344895",
     Invite = "https://www.youtube.com/@yua_mikami816"
 })
 v484:AddDiscordInvite({
-    Name = "KHONG CHOI GAME CHI DE HOC",
+    Name = "em gai vu to_hub",
     Description = "",
     Logo = "rbxassetid://74732459344895",
     Invite = ""
