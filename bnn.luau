@@ -2029,7 +2029,7 @@ function Kz.CreateMain(Y)
 	local U = tostring((nz.Getcolor(dz.UIColor["Title Text Color"]))[2]);
 	local C = tostring((nz.Getcolor(dz.UIColor["Title Text Color"]))[3]);
 	local v = i .. ("," .. (U .. ("," .. C)));
-	M.Text = "<font color=\"rgb(" .. (v .. ")\">the_real_Panda Hub </font> : Blox Fruits");
+	M.Text = "<font color=\"rgb(" .. (v .. ")\">NHAT LONG HUB </font> : Blox Fruits");
 	z = Instance.new("ImageLabel");
 	z.Name = "MainContainer";
 	z.Parent = Q;
@@ -2092,7 +2092,7 @@ function Kz.CreateMain(Y)
 	local c = tostring((nz.Getcolor(dz.UIColor["Title Text Color"]))[2]);
 	local H = tostring((nz.Getcolor(dz.UIColor["Title Text Color"]))[3]);
 	local S = b .. ("," .. (c .. ("," .. H)));
-	M.Text = "<font color=\"rgb(" .. (S .. ")\">the_real_Panda Hub </font> : Blox Fruits");
+	M.Text = "<font color=\"rgb(" .. (S .. ")\">NHAT LONG HUB </font> : Blox Fruits");
 	K.Name = "Background1";
 	K.Parent = g;
 	K.Position = UDim2.new(0, 5, 0, 0);
@@ -2178,7 +2178,7 @@ function Kz.CreateMain(Y)
 	L.BackgroundTransparency = 1.0;
 	L.Position = UDim2.new(.5, 0, .5, 0);
 	L.Size = UDim2.new(0, 16, 0, 16);
-	L.Image = "rbxassetid://8154282545";
+	L.Image = "rbxassetid://74732459344895";
 	L.ImageColor3 = dz.UIColor["Search Icon Color"];
 	P.Name = "Search Button";
 	P.Parent = k;
@@ -2367,7 +2367,7 @@ function Kz.CreateMain(Y)
 		y.BackgroundTransparency = 1.0;
 		y.Position = UDim2.new(.5, 0, .5, 0);
 		y.Size = UDim2.new(0, 16, 0, 16);
-		y.Image = "rbxassetid://8154282545";
+		y.Image = "rbxassetid://74732459344895";
 		y.ImageColor3 = dz.UIColor["Search Icon Color"];
 		b.Name = "Search Button";
 		b.Parent = m;
